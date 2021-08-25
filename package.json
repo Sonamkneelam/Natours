@@ -1,0 +1,23 @@
+{
+  "name": "my-nodejs",
+  "version": "1.0.0",
+  "description": "Learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonamkneelam/Natours.git"
+  },
+  "author": "Sonam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonamkneelam/Natours/issues"
+  },
+  "homepage": "https://github.com/Sonamkneelam/Natours#readme",
+  "dependencies": {
+    "slugify": "^1.6.0"
+  }
+}
